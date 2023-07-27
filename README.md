@@ -1,4 +1,4 @@
-# IT-Asset-Mangement
+# IT Asset Mangement
 # Features
 Role Based Access
 Forgot Password 
