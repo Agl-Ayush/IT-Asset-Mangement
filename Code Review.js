@@ -1,0 +1,1 @@
+Structure forJson Format
