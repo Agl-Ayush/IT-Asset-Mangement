@@ -1,5 +1,6 @@
-# IT Asset Mangement
+# IT Asset Mangement (Angular JS)
 # Features
+Used API's for different components
 Role Based Access
 Forgot Password 
 Admin Rights 
